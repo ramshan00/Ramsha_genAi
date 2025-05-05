@@ -18,7 +18,7 @@ def main():
     """)
     
     if st.button("Generate Startup Idea"):
-        st.switch_page("pages/generator.py")
+        st.switch_page("pages/Generator.py")
     
     st.markdown("---")
     st.caption("Developed by RAMSHA NOSHAD for National Incubation Center")
